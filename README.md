@@ -2,10 +2,10 @@
 
 ### Deep Learning-Based Detection and Classification of Insects on Yellow Sticky Traps
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)]
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-orange)]
-[![RF-DETR](https://img.shields.io/badge/RF--DETR-Object%20Detection-purple)]
-[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-green)]
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-orange)
+![RF-DETR](https://img.shields.io/badge/RF--DETR-Object%20Detection-purple)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-green)
 
 > An AI-based computer vision research project for automatic detection and classification of harmful and beneficial insects in greenhouse yellow sticky trap images.
 
@@ -27,7 +27,7 @@ The research focuses on three insect species:
 | **MR** | *Macrolophus pygmaeus* | Beneficial insect |
 | **NC** | *Nesidiocoris tenuis* | Beneficial insect |
 
-The object detection stage uses **YOLOv8** and **RF-DETR**. Detected insects are subsequently classified using deep learning models including VGG19, ResNet50, NASNet Mobile and FGCN. :contentReference[oaicite:1]{index=1}
+The object detection stage uses **YOLOv8** and **RF-DETR**. Detected insects are subsequently classified using deep learning models including **VGG19, ResNet50, NASNet Mobile and FGCN**.
 
 ---
 
